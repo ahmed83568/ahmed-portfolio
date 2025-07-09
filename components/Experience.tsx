@@ -17,15 +17,16 @@ const experiences = [
     ],
   },
   {
-    role: "Web Intern",
-    company: "XYZ Solutions",
-    duration: "Jan 2024 – May 2024",
-    points: [
-      "Designed responsive landing pages for marketing teams.",
-      "Improved form validation using React Hook Form.",
-      "Contributed to code reviews and agile sprints.",
-    ],
-  },
+  role: "Web Intern",
+  company: "Alvin IT Solutions",
+  duration: "July 2023 – August 2023",
+  points: [
+    "Created static web pages using HTML and CSS based on provided designs.",
+    "Implemented basic interactivity using JavaScript (e.g., button clicks, form handling).",
+    "Worked closely with senior developers to understand project structure and improve coding practices.",
+  ],
+}
+
 ];
 
 export default function Experience() {
