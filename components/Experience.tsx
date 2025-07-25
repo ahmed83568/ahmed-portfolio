@@ -19,7 +19,7 @@ const experiences = [
   {
   role: "Web Intern",
   company: "Alvin IT Solutions",
-  duration: "July 2023 – August 2023",
+  duration: "June 2023 – August 2023",
   points: [
     "Created static web pages using HTML and CSS based on provided designs.",
     "Implemented basic interactivity using JavaScript (e.g., button clicks, form handling).",
