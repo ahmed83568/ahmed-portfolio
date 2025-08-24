@@ -54,7 +54,7 @@ export default function Navbar({ toggleTheme, darkMode }) {
 
           {/* Resume */}
           <a
-            href="/AhmedRaza-Resume-Forntend-Developer.pdf"
+            href="/AhmedRaza-Resume-Frontend-Developer.pdf"
             download
             className="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-full flex items-center gap-2 transition text-sm"
           >
@@ -112,7 +112,7 @@ export default function Navbar({ toggleTheme, darkMode }) {
 
             {/* Resume in Mobile */}
             <a
-              href="/AhmedRaza-Resume-Forntend-Developer.pdf"
+              href="/AhmedRaza-Resume-Frontend-Developer.pdf"
               download
               className="mt-2 inline-flex items-center gap-2 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-full text-sm transition"
               onClick={() => setIsMenuOpen(false)}
